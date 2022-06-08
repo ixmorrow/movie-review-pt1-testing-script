@@ -14,7 +14,8 @@ const {
   const connection = new Connection(RPC_ENDPOINT_URL, commitment);
 
   // YOUR PROGRAM ID HERE //
-  const program_id = new PublicKey("J3EykHhCyDJ28mjvVriAhZkUnmdcLQevzgtYwNxQJw9d");
+  const program_id = new PublicKey("");
+  // pubkey of movie review account that was already created
   const moviePubKey = new PublicKey("3WtyV8jSvkVNPPhKqC4guxW3wsXjeMVPH94EFvNumc4t")
 
   
