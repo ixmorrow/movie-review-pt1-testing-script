@@ -12,7 +12,7 @@ npx tsc
 ```
 Run compile JS file
 ```
-index.js
+node index.js
 ```
 
 A successful run will console log something like this
@@ -25,3 +25,4 @@ Airdrop received
 sending tx
 https://explorer.solana.com/tx/3dWogzU6HYNStUBiyHbdAYsn8MT6Jv8LHR3Kpw6xeKU6LASHiitPj1mWnppQfxDfmng17C2fBtBP9auv2DXssDms?cluster=devnet
 ````
+Don't forget to plug your program id into the script!!
