@@ -10,9 +10,9 @@ Compile TS file to JS
 ```
 npx tsc
 ```
-Run compile JS file
+Run compiled JS file
 ```
-index.js
+node index.js
 ```
 
 A successful run will console log something like this
