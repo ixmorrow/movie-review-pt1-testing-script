@@ -1,4 +1,4 @@
-# movie-review-pt1-testing-script
+# movie-review-testing-script
 Script written to test programs written for the Movie Review Pt.1 lesson of the [Solana Course]("https://github.com/Unboxed-Software/solana-course").
 
 To run this script, clone the repo and paste your program id in to the program_id variable.
